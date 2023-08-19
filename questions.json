@@ -1,0 +1,63 @@
+[
+    {
+      "question": "Cloud service that provides only a base infrastructure",
+      "options": ["On-Premise Cloud", "Infrastructure as a Service", "Platform as a Service", "Container as a service"],
+      "answer": "Infrastructure as a Service"
+    },
+    {
+      "question": "Cloud service that provides container engines, orchestration and the underlying compute resources",
+      "options": ["Infrastructure as a Service", "Platform as a Service", "Container as a service", "OpenShift as a service"],
+      "answer": "Container as a Service"
+    },
+    {
+      "question": "Cloud service that everything can be managed by vendors",
+      "options": ["Infrastructure as a Service", "Platform as a Service", "Container as a service", "Software as a service"],
+      "answer": "Software as a Service"
+    },
+    {
+      "question": "Which is the best system in performance and control?",
+      "options": ["Bare Metal", "Virtual Machine", "Platform as a Service", "Serverless"],
+      "answer": "Bare Metal"
+    },
+    {
+      "question": "Which is the best system in development speed?",
+      "options": ["Platform as a Service", "Serverless", "Container", "Virtual Machine"],
+      "answer": "Serverless"
+    },
+    {
+      "question": "One that is not an advantage of a public cloud service?",
+      "options": ["lower costs due to not being required to purchase hardware or software", 
+                  "More private data", 
+                  "No hardware / platform maintenance", 
+                  "Close to unlimited scalability"],
+      "answer": "More private data"
+    },
+    {
+      "question": "The one is not a private component in a private cloud service?",
+      "options": ["Networking", "Storage", "Platform", "Server"],
+      "answer": "Platform"
+    },
+    {
+      "question": "The one is not a hybrid cloud service provide?",
+      "options": ["Authenticator", "Orchestration", "Management", "Application Portability"],
+      "answer": "Authenticator"
+    },
+    {
+      "question": "The one is not a use case of Traditional Hybrid Cloud?",
+      "options": ["Rapid adoption of new technology", 
+                  "Scalability and resilience", 
+                  "VMware distribution", 
+                  "Resource optimizaation and cost savings"],
+      "answer": "Rapid adoption of new technology"
+    },
+    {
+      "question": "The one is not a benefit of Hybrid Cloud?",
+      "options": ["Improved developer productivity", 
+                  "Greater infrastructure", 
+                  "Rapid adoption of new technology", 
+                  "Improved regulatory compliance and security"],
+      "answer": "Improved developer productivity"
+    }
+]
+
+  
