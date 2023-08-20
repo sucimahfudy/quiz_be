@@ -1,17 +1,17 @@
 [
     {
       "question": "Cloud service that provides only a base infrastructure",
-      "options": ["On-Premise Cloud", "Infrastructure as a Service", "Platform as a Service", "Container as a service"],
+      "options": ["On-Premise Cloud", "Infrastructure as a Service", "Platform as a Service", "Container as a Service"],
       "answer": "Infrastructure as a Service"
     },
     {
       "question": "Cloud service that provides container engines, orchestration and the underlying compute resources",
-      "options": ["Infrastructure as a Service", "Platform as a Service", "Container as a service", "OpenShift as a service"],
+      "options": ["Infrastructure as a Service", "Platform as a Service", "Container as a Service", "OpenShift as a Service"],
       "answer": "Container as a Service"
     },
     {
       "question": "Cloud service that everything can be managed by vendors",
-      "options": ["Infrastructure as a Service", "Platform as a Service", "Container as a service", "Software as a service"],
+      "options": ["Infrastructure as a Service", "Platform as a Service", "Container as a Service", "Software as a Service"],
       "answer": "Software as a Service"
     },
     {
